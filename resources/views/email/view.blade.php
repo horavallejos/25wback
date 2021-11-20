@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>MundosE</title>
+    <title>25 Watts</title>
 </head>
 <body>
     <h1>{{ $details['title'] }}</h1>
